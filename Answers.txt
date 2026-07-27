@@ -1,0 +1,67 @@
+1. Output: Arithmetic Exception: You can't divide an integer by 0.
+
+2. Output: Error: Don't divide a number by zero
+I'm out of try-catch block in Java.
+
+3. Output: ArrayIndexOutOfBounds.
+
+4. Output: Warning: ArithmeticException
+Out of try-catch block...
+
+5. Output: Number format exception occurred.
+
+6. Output: 23 
+        StringIndexOutOfBoundsException!!.
+
+7. Output: NullPointerException..
+
+8. Output: Inside block1
+Exception: e1
+Inside block2
+Arithmetic Exception
+Inside parent try catch block
+Next statement..
+
+9. ArrayIndexOutOfBoundsException handled in main try-block
+
+10. ArrayIndexOutOfBoundsException handled in main try-block
+
+11. Inside block1
+Exception: e1
+Inside block2
+Arithmetic Exception
+Inside parent try catch block
+Next statement..
+
+12. Output: MyOwnException: Age can't be less than zero
+    at EmployeeTest.employeeAge(EmployeeTest.java:...)
+    at EmployeeTest.main(EmployeeTest.java:...)
+
+13. Output: This is Finally block
+Finally block ran even after return statement
+112
+
+14. Output: Compile-time error
+
+15. Output: Prints the contents of myfile.txt
+
+16. Output: Exception Occurred
+next-statement: Outside of try-catch
+
+17. Output: try - first statement
+start - myMethod
+An Exception
+finally
+Out of try/catch/finally - statement
+
+18. Output: MyOwnException: Age can't be less than zero
+
+19. Output: Exception in thread "main" java.lang.ArithmeticException: First parameter is not valid
+
+20. Output: Welcome to the Registration process!!
+Exception in thread "main" java.lang.ArithmeticException: Student is not eligible for registration
+
+21. Output: java.io.IOException: Exception Message1
+
+22. Output: Inside throwMethod
+The exception get caughtjava.lang.NullPointerException: Demo
